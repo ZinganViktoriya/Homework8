@@ -1,0 +1,14 @@
+@font-face{
+    font-family: 'OpenSans-Bold';
+    src: url('../fonts/OpenSans-Bold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+@font-face{
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
